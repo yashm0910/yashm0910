@@ -119,14 +119,6 @@ AI-powered backend system that analyzes customer reviews and extracts structured
 
 ---
 
-## 📈 GitHub Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashm0910&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p>
@@ -135,11 +127,11 @@ AI-powered backend system that analyzes customer reviews and extracts structured
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://www.linkedin.com/in/yash-maheshwari-68245a364/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:iamyashmaheshwari@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
